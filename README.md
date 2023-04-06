@@ -1,1 +1,1 @@
-# terminal_table_project_hansi_wbr
+# terminal-table-project_hansi-wbr
